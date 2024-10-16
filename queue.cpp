@@ -66,7 +66,7 @@ public:
 		cur->nxt = nullptr;
 		cur->prev = nullptr;
 		free(cur);
-		//  ã…‡ = ã…‡ = ã…‡ 
+		//  ¤· = ¤· = ¤· 
 		// => o === o 
 		//		o 
 		// 1 2 3 - > 1 2 -> 1 
