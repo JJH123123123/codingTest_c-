@@ -1,3 +1,8 @@
+# other code
+*.py
+*.java
+*.class
+
 # Prerequisites
 *.d
 
@@ -30,3 +35,5 @@
 *.exe
 *.out
 *.app
+
+
